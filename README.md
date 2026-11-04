@@ -79,7 +79,7 @@ The dashboard provides an overview of the company's performance through key metr
 The dashboard highlights several business insights:
 
 - The business generated approximately $10 million in revenue and $7.03 million in profit, according to the displayed dashboard KPIs.
-- Midday and early evening hours, particularly around 10:00–15:00, show strong revenue performance.
+- Late morning and afternoon hours, particularly 10:00–15:00, show strong revenue performance.
 - Wednesday and Friday show comparatively higher sales during several hours.
 - Seasonal revenue varies, with one season generating approximately $3.2 million.
 - Registered riders account for approximately 81.81% of riders, while casual riders account for 18.19%.
