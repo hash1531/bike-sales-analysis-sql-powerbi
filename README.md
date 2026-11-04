@@ -37,11 +37,11 @@ The analysis was expected to address the following requirements:
 
 The project uses three source tables:
 
-- `bike_share_yr_0` – Bike-sharing records mapped to 2025.
-- `bike_share_yr_1` – Bike-sharing records mapped to 2026.
+- `bike_share_yr_0` – Bike-sharing records mapped to 2021.
+- `bike_share_yr_1` – Bike-sharing records mapped to 2022.
 - `cost_table` – Year-wise pricing and cost information.
 
-**Year Mapping:** The original dataset uses year codes `yr_0` and `yr_1`. For this project, `yr_0` is treated as 2025 and `yr_1` as 2026. These labels are used consistently in the analysis and dashboard.
+**Year Mapping:** The original dataset uses year codes `yr_0` and `yr_1`. For this project, `yr_0` is treated as 2021 and `yr_1` as 2022. These labels are used consistently in the analysis and dashboard.
 
 The two yearly bike-sharing tables were consolidated into a unified dataset for analysis.
 
@@ -72,7 +72,7 @@ The dashboard provides an overview of the company's performance through key metr
 - **Rider Demographics:** Visualises the distribution of casual and registered riders.
 - **Year Selection:** Allows users to compare performance across 2025 and 2026.
 
-![Bike Share Dashboard](Images/bike_share_dashboard.png)
+![Bike Share Dashboard](Images/bike_share_dashboard_v2.png)
 
 ## Key Findings
 
