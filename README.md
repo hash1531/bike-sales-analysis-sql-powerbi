@@ -1,6 +1,5 @@
 
-# Bike Share Revenue & Pricing Analysis
-
+# Business Dashboard for The Bike Company
 An end-to-end data analytics project using SQL Server and Power BI to analyse bike-sharing revenue, profitability, rider demographics, and seasonal trends for The Bike Company across 2021 and 2022.
 
 ## Project Overview
