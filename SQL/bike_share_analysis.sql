@@ -3,8 +3,8 @@
 -- The Bike Company
 --
 -- Year mapping used in this project:
--- yr_0 = 2025
--- yr_1 = 2026
+-- yr_0 = 2021
+-- yr_1 = 2022
 --
 -- Combining the two yearly bike-share tables
 
