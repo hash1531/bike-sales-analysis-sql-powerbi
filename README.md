@@ -106,17 +106,17 @@ Recommended actions:
 
 | Folder / File | Description |
 |---|---|
-| `Data/` | Source bike-sharing and cost datasets |
-| `SQL/` | SQL query used for data preparation and calculations |
-| `PowerBI/` | Interactive Power BI dashboard |
-| `Images/` | Dashboard screenshots and project visuals |
+| [Data/](Data/) | Source bike-sharing and cost datasets |
+| [SQL/bike_share_analysis.sql](SQL/bike_share_analysis.sql) | SQL query for data preparation and calculations |
+| [PowerBI/Dashboard.pbix](PowerBI/Dashboard.pbix) | Interactive Power BI dashboard |
+| [Images/](Images/) | Dashboard screenshots and project visuals |
 
 ## How to View the Project
 
-1. Browse the dashboard screenshots in the `Images/` folder.
-2. Download the `.pbix` file from the `PowerBI/` folder and open it using Microsoft Power BI Desktop.
-3. Review the SQL script in the `SQL/` folder to understand the data preparation process.
-4. Explore the CSV datasets in the `Data/` folder.
+1. Browse the dashboard screenshot in the [Images/](Images/) folder.
+2. Download [Dashboard.pbix](PowerBI/Dashboard.pbix) and open it using Microsoft Power BI Desktop.
+3. Review the [SQL analysis script](SQL/bike_share_analysis.sql).
+4. Explore the CSV datasets in the [Data/](Data/) folder.
 
 **Requirements:** Microsoft Power BI Desktop and Microsoft SQL Server (for reproducing the SQL workflow).
 
