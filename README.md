@@ -1,7 +1,7 @@
 
 # Bike Share Revenue & Pricing Analysis
 
-An end-to-end data analytics project using SQL Server and Power BI to analyse bike-sharing revenue, profitability, rider demographics, and seasonal trends for The Bike Company across 2025 and 2026.
+An end-to-end data analytics project using SQL Server and Power BI to analyse bike-sharing revenue, profitability, rider demographics, and seasonal trends for The Bike Company across 2021 and 2022.
 
 ## Project Overview
 
@@ -70,7 +70,7 @@ The dashboard provides an overview of the company's performance through key metr
 - **Hourly Revenue Analysis:** Identifies the hours with the highest revenue and profitability.
 - **Seasonal Revenue:** Compares revenue performance across seasons.
 - **Rider Demographics:** Visualises the distribution of casual and registered riders.
-- **Year Selection:** Allows users to compare performance across 2025 and 2026.
+- **Year Selection:** Allows users to compare performance across 2021 and 2022.
 
 ![Bike Share Dashboard](Images/bike_share_dashboard_v2.png)
 
